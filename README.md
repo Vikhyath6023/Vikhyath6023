@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vikhyath.
-- 👀 I’m interested in all tech stacks.
-- 🌱 I’m currently learning Data Analytics and web Development.
-- 💞️ I’m looking to collaborate on opensource projects.
+- 👀 I’m interested Exploring all tech stacks.
+- 🌱 I’m currently learning Data Analytics ,Flutter.
+- 💞️ I’m Open Source Enthusiastic.
 
 <!---
 Vikhyath6023/Vikhyath6023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
